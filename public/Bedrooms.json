@@ -1,0 +1,35 @@
+{
+  "Bedrooms": [
+    {
+      "id":1 ,
+      "Beedrom": 1,
+      "Free": "Yes"
+  },
+  {
+      "id":2 ,
+      "Nombre": 2,
+      "Tipo_Usuario": "Yes"
+  },
+  {
+      "id":3 ,
+      "Nombre": 3,
+      "Tipo_Usuario": "No"
+  },
+  {
+    "id":4 ,
+    "Nombre": 4,
+    "Tipo_Usuario": "Yes"
+  },
+  {
+    "id":5 ,
+    "Nombre": 5,
+    "Tipo_Usuario": "No"
+ },
+ {
+  "id":6 ,
+  "Nombre": 6,
+  "Tipo_Usuario": "Yes"
+ }
+  ]
+  
+}
